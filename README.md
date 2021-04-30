@@ -1,6 +1,6 @@
 # Payload Template Generator - PTG
 
-* 一个用Golang编写的payload生成器 *
+*一个用Golang编写的payload生成器*
 
 一个用于生成payload的模板生成器,支持编码器
 
